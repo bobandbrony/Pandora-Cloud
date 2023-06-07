@@ -12,6 +12,14 @@
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/AWK0rN)
 
+## Gitpod
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/pengzhile/pandora-cloud-serverless)
+
+* 推荐 `VS Code` 打开。
+* 打开后可在 `PORTS` 选项卡看到地址，点击即可访问。
+* 可设置地址是否公开，点击小锁图标即可设置。
+
 ## Zeabur
 
 * 略
