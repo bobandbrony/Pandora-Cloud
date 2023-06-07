@@ -4,14 +4,14 @@
   "framework": null,
   "builds": [
     {
-      "src": "entrypoint.py",
+      "src": "main.py",
       "use": "@vercel/python"
     }
   ],
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "entrypoint.py"
+      "destination": "main.py"
     }
   ],
   "env": {

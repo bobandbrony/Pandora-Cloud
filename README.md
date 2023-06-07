@@ -10,7 +10,7 @@
 
 ## Railway
 
-* `python3 entrypoint.py`
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/ah4Kod)
 
 ## Zeabur
 
